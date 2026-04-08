@@ -1,10 +1,10 @@
 # Aura - Social Networking App
 <div align="center">
-  <img width="19%" alt="Image 1" src="https://github.com/user-attachments/assets/1af56595-761d-43d6-8374-9133134f14e0" />
-  <img width="19%" alt="Image 2" src="https://github.com/user-attachments/assets/ea2a6d87-569f-42f0-921b-8b0ede164524" />
-  <img width="19%" alt="Image 3" src="https://github.com/user-attachments/assets/68956eb9-262c-4cdc-bd73-0c78b242c13e" />
-  <img width="19%" alt="Image 4" src="https://github.com/user-attachments/assets/3f577915-cf5c-4f33-8d83-5ee6cf5cdf77" />
-  <img width="19%" alt="Image 5" src="https://github.com/user-attachments/assets/431a0ac9-0555-424c-a864-89f3ee6b6315" />
+  <img width="19%" alt="Aura App Screen 1" src="https://github.com/user-attachments/assets/e832b6b2-fbd9-4b50-bc16-b6e4c2593962" />
+  <img width="19%" alt="Aura App Screen 2" src="https://github.com/user-attachments/assets/7b2d085a-3165-4882-8374-6faca361c221" />
+  <img width="19%" alt="Aura App Screen 3" src="https://github.com/user-attachments/assets/685fbac6-b744-4786-b47c-e493cf13a42c" />
+  <img width="19%" alt="Aura App Screen 4" src="https://github.com/user-attachments/assets/0c2f8d1c-1ed9-438f-9ef4-52ebaa9f4e3a" />
+  <img width="19%" alt="Aura App Screen 5" src="https://github.com/user-attachments/assets/db371062-4b5d-42c9-a762-ef53c1413cf8" />
 </div>
 ## Mô tả dự án
 
